@@ -1,0 +1,26 @@
+.xsplus{border-radius:10px;position:relative;display:inline-block;overflow-x:scroll;overflow-y:hidden;margin:2px;}
+   .cate{background: #ffffff;
+   color: #ff001f;
+   margin: 5px ;
+   padding: 5px;
+   width: 200px ;
+   height: 20px ;
+       
+   }
+   /*card poster*/
+.alignleft{
+float:left;margin-left:5px; color:#ac0007; font-weight:bold; font-size:16px;} 
+.alignright{ ;float:right;margin-right:10px; color:#000; font-size:14px; font-weight:bold ;} 
+h4{margin-left:5px;color:#fff;font-weight:bold; font-size:15px;}
+.poster{position:relative;overflow:hidden ;} 
+div.scrollmenu{background:transparent;overflow:auto;white-space:nowrap;position:relative;overflow-y:hidden;} 
+div.scrollmenu a{display:inline-block;color:#000;text-align:center;padding:4px;text-decoration:none;}
+div.scrollmenu a:hover{background:transparent;}
+.xplus{position:relative;text-align:center;color:white;}
+/*.centered{ font-size:12px; font-weight:bold; position:absolute; top:80%; left: 50%; transform:translate(-50%,-50%)} 
+.cent{ font-size:auto; position:absolute ; top:95%; left: 50%; transform:translate(-50%,-50%)} */
+.xaviec{width:110px;border-radius:7px;height:150px;z-index:1;}
+.mnt{width:100px;border-radius:100px;height:100px;}
+#xs-header{background:transparent;left:0;position:fixed;top:-10px;width:100%;z-index:90;height:8%;}
+.body{background: transparent;}
+     
